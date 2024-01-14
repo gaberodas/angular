@@ -96,7 +96,11 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "assets/all.js",
+              "assets/animate.js",
+              "assets/animated-slider.js"
+            ]
           }
         }
       }
