@@ -11,6 +11,7 @@ import { BlogComponent } from './blog/blog.component';
 import { ContactComponent } from './contact/contact.component';
 import { PortfolioComponent } from './portfolio/portfolio.component';
 import { ServicesComponent } from './services/services.component';
+import { TestimonialsComponent } from './testimonials/testimonials.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ServicesComponent } from './services/services.component';
     BlogComponent,
     ContactComponent,
     PortfolioComponent,
-    ServicesComponent
+    ServicesComponent,
+    TestimonialsComponent
   ],
   imports: [
     BrowserModule,
@@ -33,6 +35,8 @@ import { ServicesComponent } from './services/services.component';
       { path: 'contact', component: ContactComponent },
       { path: 'portfolio', component: PortfolioComponent},
       { path: 'services', component: ServicesComponent},
+      { path: 'testimonials', component: TestimonialsComponent},
+      { path: 'blog', component: BlogComponent},
       
     ])
   ],

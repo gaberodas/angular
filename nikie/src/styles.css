@@ -1501,7 +1501,7 @@ hr.invis1 {
     width: 100%;
     height: 100%;
     position: relative;
-    background: url("./app/uploads/code.jpg") no-repeat;
+    background: url("./assets/uploads/code.jpg") no-repeat;
 }
 
 .design-wrapper {
@@ -1522,7 +1522,7 @@ hr.invis1 {
     position: relative;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    background: url("./app/uploads/design.jpg") no-repeat;
+    background: url("./assets/uploads/design.jpg") no-repeat;
 }
 
 .filter-button-group{
