@@ -41,7 +41,7 @@ html, body{
 }
 
 body.demos .section {
-    background: url(./app/images/bg.png) repeat top center #f2f3f5;
+    background: url(./assets/images/bg.png) repeat top center #f2f3f5;
 }
 
 body.demos .section-title img {
@@ -2283,7 +2283,7 @@ select.mobile-device {
 }
 
 #contact {
-    background: url(./app/images/bg.png) no-repeat center center #333333;
+    background: url(./assets/images/bg.png) no-repeat center center #333333;
 }
 
 
